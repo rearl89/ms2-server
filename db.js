@@ -3,6 +3,7 @@ const dotenv = require('dotenv')
 
 dotenv.config()
 
+//Enables querying Postgres
 const pool = new Pool({
     user: "postgres",
     password: process.env.DB_PASS,
