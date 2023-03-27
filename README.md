@@ -6,3 +6,6 @@ Directions:
 All you have to do is enter a todo item in the input box and click "Add" afterwards and it will display on the page as it does an autorefresh. The new todo item will also appear in the Postgres database I made for this project.
 To delete the todo item, simply click the "Delete" button and it will remove from the page and the database.
 To edit a todo item, click the "Edit" button. A modal will appear with the todo item you selected to edit in the input. Change the input text to desired text and click "Edit" to submit the update. The update will be reflected on the page and in the database.
+
+
+Client code: https://github.com/rearl89/ms2-client
